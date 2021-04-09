@@ -6,9 +6,9 @@ For more detail, please read our Paper titled : " A Low-Complexity Convolutional
 To use it : 
 
 <h2> 1 - 
-  Create as much of clusters as you need regarding your application.
-hint : start by defining the appropriate input shapes for your application
+<h6>  Create as much of clusters as you need regarding your application. <\br>
+<h3> hint : <h6> start by defining the appropriate input shapes for your application
 <h2> 2 - 
-  Download the YoloV3/tiny-Yolov3 weights and put them into :  ./cluster_{i}/model_data
+<h6>  Download the YoloV3/tiny-Yolov3 weights and put them into :  ./cluster_{i}/model_data
 <h2> 3 - 
-  Set the classes you want to detect at : ./cluster_{i}/model_data/{your_classes}.txt
+<h6>  Set the classes you want to detect at : ./cluster_{i}/model_data/{your_classes}.txt
